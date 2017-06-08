@@ -1,0 +1,63 @@
+{
+  "first floor": [
+    {
+      "name": "Chris room",
+      "position": {
+        "x": 30.894402985074628,
+        "y": 27.707462686567165,
+        "width": 257.7492537313433,
+        "height": 147.15223880597017
+      }
+    },
+    {
+      "name": "Reception",
+      "position": {
+        "x": 323.1039402985075,
+        "y": 32.364179104477614,
+        "width": 200.70447761194032,
+        "height": 144.82388059701495
+      }
+    },
+    {
+      "name": "VP cabin lighting",
+      "position": {
+        "x": 22.745149253731345,
+        "y": 206.99104477611942,
+        "width": 162.2865671641791,
+        "height": 182.0776119402985
+      }
+    },
+    {
+      "name": "Software Junction",
+      "position": {
+        "x": 196.2084179104478,
+        "y": 208.15522388059702,
+        "width": 270.55522388059705,
+        "height": 149.4805970149254
+      }
+    },
+    {
+      "name": "Refrigeration room",
+      "position": {
+        "x": 531.4920000000001,
+        "y": 24.21492537313433,
+        "width": 149.4805970149254,
+        "height": 159.95820895522388
+      }
+    },
+    {
+      "name": "Hardware Junction",
+      "position": {
+        "x": 524.579104477612,
+        "y": 225.6179104477612,
+        "width": 149.4805970149254,
+        "height": 102.9134328358209
+      }
+    }
+  ],
+  "first floor_geo_orientation": 0,
+  "first floor_filename": "first floor/RG_3_bdrm_with_balcony.jpg",
+  "floor_names": [
+    "First floor"
+  ]
+}
